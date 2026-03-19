@@ -154,7 +154,7 @@ export function Hero() {
       </div>
 
       {/* Scroll indicator */}
-      <motion.div
+      {/* <motion.div
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
         transition={{ delay: 1.5 }}
@@ -166,7 +166,7 @@ export function Hero() {
           transition={{ duration: 1.8, repeat: Infinity }}
           className="w-px h-10 bg-gradient-to-b from-gold/60 to-transparent"
         />
-      </motion.div>
+      </motion.div> */}
     </section>
   )
 }
