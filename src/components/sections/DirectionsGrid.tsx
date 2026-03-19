@@ -1,5 +1,4 @@
 import { Link } from 'react-router-dom'
-import { motion } from 'framer-motion'
 import { ArrowUpRight } from 'lucide-react'
 import { FadeIn, StaggerContainer, StaggerItem } from '@/components/ui/fade-in'
 import { DIRECTIONS } from '@/lib/data'

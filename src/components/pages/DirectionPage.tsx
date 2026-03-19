@@ -2,7 +2,6 @@ import { useParams, Link, Navigate } from 'react-router-dom'
 import { motion } from 'framer-motion'
 import { ArrowLeft, Check, Clock, Users } from 'lucide-react'
 import { FadeIn, StaggerContainer, StaggerItem } from '@/components/ui/fade-in'
-import { Button } from '@/components/ui/button'
 import { TrialForm } from '@/components/sections/TrialForm'
 import { DIRECTIONS } from '@/lib/data'
 
